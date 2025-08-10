@@ -1,4 +1,4 @@
-a<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -70,6 +70,11 @@ a<!DOCTYPE html>
         background: #8F9779;
         color: white;
     }
+    .socials a {
+        text-decoration: underline;
+        text-decoration-thickness: 2px ;
+        text-decoration-color: #8F9779;
+    }
 </style>
 </head>
 <body>
@@ -84,7 +89,7 @@ a<!DOCTYPE html>
 <div class="team-container">
     <!-- mem 1 -->
     <div class="card">
-        <img src="11.jpg" alt="mem 1">
+        <img src="em.jpg" alt="mem 1">
         <div class="name">Erica Mae Barriga</div>
         <div class="bio">A kinda aspiring developer energized by coke, wi-fi and memes.
                Loves figuring things out, even if it means a few Google searches (or a lot)
@@ -103,7 +108,7 @@ a<!DOCTYPE html>
 
     <!-- mem 2 -->
     <div class="card">
-        <img src=”marv.jpg" alt="Member 2">
+        <img src="marv.jpg" alt="Member 2">
         <div class="name">Marvin Tormis</div>
         <div class="bio">
    a gamer and explorer who loves discovering cool places 
@@ -124,9 +129,9 @@ a<!DOCTYPE html>
 
     <!-- mem 3 -->
     <div class="card">
-        <img src="3.jpg" alt="Member 3">
+        <img src="juliean.jpg" alt="Member 3">
         <div class="name">Juliean Dela Cruz</div>
-        <div class="bio">Learn something new Every day is a new opportunity to learn and grow</div>
+        <div class="bio">Learn something new everyday is a new opportunity to learn and grow</div>
         <div class="skills">
             <span>Self Motivation</span>
             <span>Teamwork</span>
@@ -134,26 +139,24 @@ a<!DOCTYPE html>
         <!--palagyan po links ng socials nyo-->
         <div class="socials">
             <a href="https://www.facebook.com/share/19pRpUt237/">Facebook</a>
+            <a href="">Instagram</a>
         </div>
     </div>
 
 
     <!-- mem 4 -->
     <div class="card">
-        <img src="4.jpg" alt="Member 4">
-        <div class="name">mem 4</div>
-        <div class="bio">jo! jo ano ba yon kung galit ka sabihin mo sakin. ano bang gusto mo jo? nagmumukha naman akong tanga dito e.
-            kung galit ka murahin mo ko! gusto mo ba saktan mo nalang ako oh ano jo ano? ano ayaw mo na ba pagod ka na ba?
-            jo ano pagod ka na ayaw mo na?</div>
+        <img src="elysa.jpg" alt="Member 4">
+        <div class="name">Elysa Nicole Barros</div>
+        <div class="bio">chasing knowledge with the same passion i chase sunsets,i believe that learning is a journey as beautiful as the view at dusk</div>
         <div class="skills">
-            <span>ano</span>
-            <span>ano</span>
-            <span>ano</span>
+            <span>adaptability & resilience</span>
+            <span>graphic design</span>
         </div>
         <!--palagyan po links ng socials nyo-->
         <div class="socials">
-            <a href="#">Facebook</a>
-            <a href="#">Instagram</a>
+            <a href="">Facebook</a>
+            <a href="https://www.instagram.com/_colybabe/">Instagram</a>
         </div>
     </div>
 </div>
@@ -162,7 +165,6 @@ a<!DOCTYPE html>
     </footer>
 </body>
 </html>
-
 
 
 
